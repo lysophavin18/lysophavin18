@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ly Sophavin</h1>
-<h3 align="center">
+<h2 align="center">
 🔐 Cybersecurity Researcher | SOC & SIEM Engineer | CTF Player | Penetration Testing | Bug Hunting
-</h3>
-
+</2>
+<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
 </p>
@@ -149,8 +149,8 @@
   <a href="https://github.com/lysophavin18">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://www.linkedin.com/in/ly-sophavin-4a2235291/"/>
+  <a href="https://www.linkedin.com/in/ly-sophavin-4a2235291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
