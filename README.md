@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
 </p>
 
 <p align="center">
@@ -81,6 +81,7 @@
 
 ### 🟦 Cisco
 <p align="left">
+  <img src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90"/>
   <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90"/>
   <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="90"/>
   <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="90"/>
@@ -89,20 +90,37 @@
 
 ### 🟩 API Security
 <p align="left">
-  <img src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90"/>
   <img src="https://images.credly.com/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" width="90"/>
   <img src="https://images.credly.com/images/9781310b-49e7-4564-a7ca-7a53784bbf1e/blob" width="90"/>
 </p>
 
-### 🟥 Hack The Box Academy
-<p align="left">
+## 🟥 Hack The Box Academy – Achievements
+
+<p align="center">
   <img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" width="90"/>
   <img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/drop-your-weapon.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="90"/>
   <img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" width="90"/>
-  <img src="https://academy.hackthebox.com/storage/badges/inject-with-caution.png" width="90"/>
-  <img src="https://academy.hackthebox.com/storage/badges/scan-and-execute.png" width="90"/>
-  <img src="https://academy.hackthebox.com/storage/badges/developer.png" width="90"/>
+</p>
+
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/crude-but-effective.png" width="90"/>
   <img src="https://academy.hackthebox.com/storage/badges/join-the-adventure.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/developer.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/just-a-small-crack-and-you-re-in.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/included-in-every-report.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/inject-with-caution.png" width="90"/>
+</p>
+
+<p align="center">
+  <img src="https://academy.hackthebox.com/storage/badges/dive-into-requests.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/prepare-your-payload-and-up-you-go.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/scan-and-execute.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/information-is-not-knowledge-or-is-it.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/straight-to-the-server.png" width="90"/>
+  <img src="https://academy.hackthebox.com/storage/badges/8917b28cb5966d2cd835c151ed79e26b/logo.png" width="90"/>
 </p>
 
 ---
@@ -128,11 +146,11 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/lysophavin18">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://www.linkedin.com/in/ly-sophavin-4a2235291/"/>
   </a>
 </p>
 
