@@ -24,7 +24,14 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+
+## 🛠️ Tools Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+</p>
 
 ### 🔄 SOAR & DFIR
 <p align="left">
