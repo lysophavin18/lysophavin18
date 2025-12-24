@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🔍 Cybersecurity researcher focused on **SOC Operations, SIEM, DFIR, OSINT**
+- 🔍 Cybersecurity researcher focused on **SOC Operations, SIEM, DFIR, OSINT, PENTEST, BUG HUNTING**
 - 🛡️ Hands-on experience in **Penetration Testing & Detection Engineering**
 - ⚙️ Building **SOAR + SIEM** using open-source tools
 - 🧪 Active **CTF Player** (Web, Crypto, OSINT, Forensics, Reversing)
