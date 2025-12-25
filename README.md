@@ -4,7 +4,7 @@
 </2>
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/lysophavin18/lysophavin18/refs/heads/main/Play%20More%20Mr%20Robot%20GIF%20by%20telenet.gif" width="800"/>
 </p>
 
 <p align="center">
