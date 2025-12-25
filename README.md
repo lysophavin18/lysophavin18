@@ -35,7 +35,7 @@
 
 ### 🔄 SOAR & DFIR
 <p align="left">
-  <img src="[https://n8nio-storageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/iris_dfir_52f74857fd.png](https://imgs.search.brave.com/DSgOByVZ0Q0rFW0N46Y8ZfHVzdMMswHg_b5Qy13IdF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vNUJpckR2/ZmE3d015dEtLNXE3/eWVnNXYzOGRLaUhZ/a1VGLVMyNmVYQzFM/OC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTls/ZUhSbC9jbTVoYkMx/d2NtVjJhV1YzL0xu/SmxaR1F1YVhRdlpH/WnAvY2kxcGNtbHpM/V1JsZG1Wcy9iM0Js/WkMxaWVTMWhhWEpp/L2RYTXRZMlZ5ZEMx/bWNtRnUvWTJVdGFY/TXRZVzR0YjNCbC9i/aTF6YjNWeVkyVXRk/akF0L1REQnBTQzF2/WTJkMlUxOVovYUVK/a2FHSnJhRlpqZG5K/eS9iR2RqTVV0alNE/aE5ZVlJOL1lXbE5h/VU5VTUM1d2JtY18v/WVhWMGJ6MTNaV0p3/Sm5NOS9NRFl4TUdJ/NU5HTTNOek5sL1pq/RTJOelF4TkRJeE5E/UTEvWlRkaE5XSm1Z/MlUxWm1ZeC9aRFZo/WWc)" width="45"/>
+  <img src="https://imgs.search.brave.com/PjRnbZjGX0PHcBBnA1ujh30ADmB-gCcmMeBp8S3lXsI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9uOG5p/b3N0b3JhZ2VhY2Nv/dW50LmJsb2IuY29y/ZS53aW5kb3dzLm5l/dC9uOG5pby1zdHJh/cGktYmxvYnMtcHJv/ZC9hc3NldHMvaXJp/c19kZmlyXzUyZjc0/ODU3ZmQucG5n" width="45"/>
   <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5ffc4c983294f149a662f91f28eed0c9/shuffle.png" width="45"/>
 </p>
 
