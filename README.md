@@ -134,7 +134,9 @@
 ---
 
 ## 🎯 TryHackMe
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png"/>
+
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png"/></p>
+
 ### 🏅 TryHackMe Skill Badges
 
 <p align="center">
