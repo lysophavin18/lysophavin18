@@ -69,7 +69,7 @@
 - 🔹 **Penetration Testing Labs** (Metasploitable 2, TryHackMe, HackTheBox, PortSwigger)
 - 🔹 **CTF Write-ups** (Web, Crypto, OSINT, DFIR)
 
-👉 *Check repositories below 👇*
+
 
 ---
 
@@ -133,7 +133,7 @@
 ---
 
 ## 🎯 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png"/>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/SnodenZz.png"/>
 ### 🏅 TryHackMe Skill Badges
 
 <p align="center">
