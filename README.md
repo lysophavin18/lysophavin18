@@ -87,8 +87,8 @@
 
 ## 🎖️ Certifications & Badges
 
-### 🟦 Cisco
-<p align="left">
+###  Cisco
+<p align="center">
   <img src="https://images.credly.com/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" width="90"/>
   <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90"/>
   <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="90"/>
@@ -96,13 +96,13 @@
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90"/>
 </p>
 
-### 🟩 API Security
-<p align="left">
+###  API Security
+<p align="center">
   <img src="https://images.credly.com/images/44a5fe44-52e6-45c2-ae9a-41fd9183c81d/image.png" width="90"/>
   <img src="https://images.credly.com/images/9781310b-49e7-4564-a7ca-7a53784bbf1e/blob" width="90"/>
 </p>
 
-## 🟥 Hack The Box Academy – Achievements
+##  Hack The Box Academy – Achievements
 
 <p align="center">
   <img src="https://academy.hackthebox.com/storage/badges/hacking-in-the-wild.png" width="90"/>
